@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "A.I. into Skynet HK-Aerial_Wargames", "A.I. into Skynet HK-Aerial_Wargames.vcxproj", "{E9A9960F-A740-41D5-861B-C96E91F1B294}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9A9960F-A740-41D5-861B-C96E91F1B294}.Debug|x64.ActiveCfg = Debug|x64
+		{E9A9960F-A740-41D5-861B-C96E91F1B294}.Debug|x64.Build.0 = Debug|x64
+		{E9A9960F-A740-41D5-861B-C96E91F1B294}.Debug|x86.ActiveCfg = Debug|Win32
+		{E9A9960F-A740-41D5-861B-C96E91F1B294}.Debug|x86.Build.0 = Debug|Win32
+		{E9A9960F-A740-41D5-861B-C96E91F1B294}.Release|x64.ActiveCfg = Release|x64
+		{E9A9960F-A740-41D5-861B-C96E91F1B294}.Release|x64.Build.0 = Release|x64
+		{E9A9960F-A740-41D5-861B-C96E91F1B294}.Release|x86.ActiveCfg = Release|Win32
+		{E9A9960F-A740-41D5-861B-C96E91F1B294}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02F040D3-AD77-4A7E-9D23-3D5A2506BF2B}
+	EndGlobalSection
+EndGlobal
